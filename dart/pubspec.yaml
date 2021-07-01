@@ -1,0 +1,5 @@
+name: syncidentificationdart
+description: Identify plants in dart
+
+dependencies:
+  http: ^0.12.0
